@@ -233,8 +233,8 @@
 	"name": "Poppy the Pekingese",
 	"stats":{
 		"exercise": 5,
-		"intelligence": ,
-		"friendliness": ,
+		"intelligence": 61,
+		"friendliness": 4,
 		"drool":	
 	}, 
 	"description": ,
@@ -244,9 +244,9 @@
 	"name": "Rosie the Rottweiler",
 	"stats":{
 		"exercise": 1,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 1,
+		"friendliness": 2,
+		"drool": 10
 	}, 
 	"description": ,
 	"image": ,
