@@ -2,11 +2,11 @@
 	"name": "Annie the Afgan Hound",
 	"stats":{
 		"exercise": 3,
-		"intelligence": 2,
+		"intelligence": 12,
 		"friendliness": 7,
-		"drool":	
+		"drool": 7
 	}, 
-	"description": ,
+	"description": "",
 	"image": ,
 },
 {
@@ -15,7 +15,7 @@
 		"exercise": 1,
 		"intelligence": 49,
 		"friendliness": 3,
-		"drool":	
+		"drool": 5
 	}, 
 	"description": ,
 	"image": ,
@@ -24,9 +24,9 @@
 	"name": "Betty the Borzoi",
 	"stats":{
 		"exercise": 5,
-		"intelligence": 6,
+		"intelligence": 8,
 		"friendliness": 1,
-		"drool":	
+		"drool": 8
 	}, 
 	"description": ,
 	"image": ,
@@ -37,7 +37,7 @@
 		"exercise": 4,
 		"intelligence": 51,
 		"friendliness": 8,
-		"drool":	
+		"drool": 2
 	}, 
 	"description": ,
 	"image": ,
@@ -48,7 +48,7 @@
 		"exercise": 3,
 		"intelligence": 85,
 		"friendliness": 10,
-		"drool":	
+		"drool": 3
 	}, 
 	"description": ,
 	"image": ,
@@ -59,7 +59,7 @@
 		"exercise": 1,
 		"intelligence": 36,
 		"friendliness": 2,
-		"drool":	
+		"drool": 7
 	}, 
 	"description": ,
 	"image": ,
@@ -70,7 +70,7 @@
 		"exercise": 5,
 		"intelligence": 14,
 		"friendliness": 6,
-		"drool":	
+		"drool": 1
 	}, 
 	"description": ,
 	"image": ,
@@ -81,7 +81,7 @@
 		"exercise": 2,
 		"intelligence": 91,
 		"friendliness": 5,
-		"drool":	
+		"drool": 7
 	}, 
 	"description": ,
 	"image": ,
@@ -103,7 +103,7 @@
 		"exercise": 1,
 		"intelligence": 90,
 		"friendliness": 10,
-		"drool":	
+		"drool": 3
 	}, 
 	"description": ,
 	"image": ,
@@ -114,7 +114,7 @@
 		"exercise": 5,
 		"intelligence": 76,
 		"friendliness": 7,
-		"drool":	
+		"drool": 7
 	}, 
 	"description": ,
 	"image": ,
@@ -125,7 +125,7 @@
 		"exercise": 5,
 		"intelligence": 64,
 		"friendliness": 2,
-		"drool":	
+		"drool":	10
 	}, 
 	"description": ,
 	"image": ,
@@ -136,7 +136,7 @@
 		"exercise": 3,
 		"intelligence": 23,
 		"friendliness": 7,
-		"drool":	
+		"drool": 8
 	}, 
 	"description": ,
 	"image": ,
@@ -147,7 +147,7 @@
 		"exercise": 4,
 		"intelligence": 50,
 		"friendliness": 9,
-		"drool":	
+		"drool": 2
 	}, 
 	"description": ,
 	"image": ,
@@ -158,7 +158,7 @@
 		"exercise": 1,
 		"intelligence": 43,
 		"friendliness": 4,
-		"drool":	
+		"drool": 3
 	}, 
 	"description": ,
 	"image": ,
@@ -166,12 +166,12 @@
 {
 	"name": "Larry the Labrador",
 	"stats":{
-		"exercise": 3,
+		"exercise": 1,
 		"intelligence": 87,
 		"friendliness": 3,
-		"drool":	
+		"drool": 6
 	}, 
-	"description": ,
+	"description": "Larry, simply the juiciest of all dogs",
 	"image": ,
 },
 {
@@ -180,9 +180,9 @@
 		"exercise": 3,
 		"intelligence": 71,
 		"friendliness": 8,
-		"drool":	
+		"drool": 9
 	}, 
-	"description": ,
+	"description": "Big, tasty",
 	"image": ,
 },
 {
@@ -204,7 +204,7 @@
 		"friendliness": 10,
 		"drool": 10
 	}, 
-	"description": ,
+	"description": "NUTty is the Jude of the dog world",
 	"image": ,
 },
 {
@@ -213,7 +213,7 @@
 		"exercise": 2,
 		"intelligence": 37,
 		"friendliness": 5,
-		"drool":	
+		"drool": 5
 	}, 
 	"description": ,
 	"image": ,
@@ -224,7 +224,7 @@
 		"exercise": 1,
 		"intelligence": 69,
 		"friendliness": 8,
-		"drool":	
+		"drool": 4
 	}, 
 	"description": ,
 	"image": ,
@@ -235,7 +235,7 @@
 		"exercise": 5,
 		"intelligence": 61,
 		"friendliness": 4,
-		"drool":	
+		"drool": 1
 	}, 
 	"description": ,
 	"image": ,
@@ -255,9 +255,9 @@
 	"name": "Ruby the Retriever",
 	"stats":{
 		"exercise": 5,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 80,
+		"friendliness": 7,
+		"drool": 2
 	}, 
 	"description": ,
 	"image": ,
@@ -266,9 +266,9 @@
 	"name": "Sam the Springer Spaniel",
 	"stats":{
 		"exercise": 1,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 81,
+		"friendliness": 3,
+		"drool": 3
 	}, 
 	"description": ,
 	"image": ,
@@ -277,9 +277,9 @@
 	"name": "Sukie the Saluki",
 	"stats":{
 		"exercise": 4,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 70,
+		"friendliness": 8,
+		"drool": 2
 	}, 
 	"description": ,
 	"image": ,
@@ -288,9 +288,9 @@
 	"name": "Vernon the Vizsla",
 	"stats":{
 		"exercise": 5,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 42,
+		"friendliness": 6,
+		"drool": 1
 	}, 
 	"description": ,
 	"image": ,
@@ -299,9 +299,9 @@
 	"name": "Whilma the West Highland Terrier",
 	"stats":{
 		"exercise": 1,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 85,
+		"friendliness": 4,
+		"drool": 8
 	}, 
 	"description": ,
 	"image": ,
@@ -310,9 +310,9 @@
 	"name": "William the Whippet",
 	"stats":{
 		"exercise": 2,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 81,
+		"friendliness": 2,
+		"drool": 3
 	}, 
 	"description": ,
 	"image": ,
@@ -321,9 +321,9 @@
 	"name": "Yolande the Yorkshire Terrier",
 	"stats":{
 		"exercise": 1,
-		"intelligence": ,
-		"friendliness": ,
-		"drool":	
+		"intelligence": 98,
+		"friendliness": 8,
+		"drool": 7
 	}, 
 	"description": ,
 	"image": ,
