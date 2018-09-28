@@ -1,7 +1,238 @@
 {
 	"name": "Annie the Afgan Hound",
 	"stats":{
-		"exercise": ,
+		"exercise": 3,
+		"intelligence": 2,
+		"friendliness": 7,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Bertie the Boxer",
+	"stats":{
+		"exercise": 1,
+		"intelligence": 49,
+		"friendliness": 3,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Betty the Borzoi",
+	"stats":{
+		"exercise": 5,
+		"intelligence": 6,
+		"friendliness": 1,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Charlie the Chihuahua",
+	"stats":{
+		"exercise": 4,
+		"intelligence": 51,
+		"friendliness": 8,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+}
+{
+	"name": "Chaz the Cocker Spaniel",
+	"stats":{
+		"exercise": 3,
+		"intelligence": 85,
+		"friendliness": 10,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Donald the Dalmation",
+	"stats":{
+		"exercise": 1,
+		"intelligence": 36,
+		"friendliness": 2,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Dottie the Doberman",
+	"stats":{
+		"exercise": 5,
+		"intelligence": 14,
+		"friendliness": 6,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Fern the Fox Terrier",
+	"stats":{
+		"exercise": 2,
+		"intelligence": 91,
+		"friendliness": 5,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Frank the French Bulldog",
+	"stats":{
+		"exercise": 4,
+		"intelligence": 15,
+		"friendliness": 8,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "George the Great Dane",
+	"stats":{
+		"exercise": 1,
+		"intelligence": 90,
+		"friendliness": 10,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Gertie the Grayhound",
+	"stats":{
+		"exercise": 5,
+		"intelligence": 76,
+		"friendliness": 7,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Harry the Harrier",
+	"stats":{
+		"exercise": 5,
+		"intelligence": 64,
+		"friendliness": 2,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Ian the Irish Wolfhound",
+	"stats":{
+		"exercise": 3,
+		"intelligence": 23,
+		"friendliness": 7,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Juno the Jack Russell",
+	"stats":{
+		"exercise": 4,
+		"intelligence": 50,
+		"friendliness": 9,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Keith the Kerry Blue",
+	"stats":{
+		"exercise": 1,
+		"intelligence": 43,
+		"friendliness": 4,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Larry the Labrador",
+	"stats":{
+		"exercise": 3,
+		"intelligence": 87,
+		"friendliness": 3,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Marge the Maltese",
+	"stats":{
+		"exercise": 3,
+		"intelligence": 71,
+		"friendliness": 8,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Max the Mutt",
+	"stats":{
+		"exercise": 5,
+		"intelligence": 100,
+		"friendliness": 10,
+		"drool": 1
+	}, 
+	"description": "This manly mutt can charm your pants clean off. Watch out ladies ;)",
+	"image": ,
+},
+{
+	"name": "Nutty the Newfoundland",
+	"stats":{
+		"exercise": 1,
+		"intelligence": 1,
+		"friendliness": 10,
+		"drool": 10
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Olive the Old English Sheepdog",
+	"stats":{
+		"exercise": 2,
+		"intelligence": 37,
+		"friendliness": 5,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Peter the Pug",
+	"stats":{
+		"exercise": 1,
+		"intelligence": 69,
+		"friendliness": 8,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
+},
+{
+	"name": "Poppy the Pekingese",
+	"stats":{
+		"exercise": 5,
 		"intelligence": ,
 		"friendliness": ,
 		"drool":	
@@ -10,89 +241,90 @@
 	"image": ,
 },
 {
-	"name": "Bertie the Boxer"
+	"name": "Rosie the Rottweiler",
+	"stats":{
+		"exercise": 1,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "Betty the Borzoi"
+	"name": "Ruby the Retriever",
+	"stats":{
+		"exercise": 5,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "Charlie the Chihuahua"
-}
-{
-	"name": "Chaz the Cocker Spaniel"
+	"name": "Sam the Springer Spaniel",
+	"stats":{
+		"exercise": 1,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "Donald the Dalmation"
+	"name": "Sukie the Saluki",
+	"stats":{
+		"exercise": 4,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "Dottie the Doberman"
+	"name": "Vernon the Vizsla",
+	"stats":{
+		"exercise": 5,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "Fern the Fox Terrier"
+	"name": "Whilma the West Highland Terrier",
+	"stats":{
+		"exercise": 1,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "Frank the French Bulldog"
+	"name": "William the Whippet",
+	"stats":{
+		"exercise": 2,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	"name": "George the Great Dane"
-},
-{
-	"name": "Gertie the Grayhound"
-},
-{
-	"name": "Harry the Harrier"
-},
-{
-	"name": "Ian the Irish Wolfhound"
-},
-{
-	"name": "Juno the Jack Russell"
-},
-{
-	"name": "Keith the Kerry Blue"
-},
-{
-	"name": "Larry the Labrador"
-},
-{
-	"name": "Marge the Maltese"
-},
-{
-	"name": "Max the Mutt"
-},
-{
-	"name": "Nutty the Newfoundland"
-},
-{
-	"name": "Olive the Old English Sheepdog"
-},
-{
-	"name": "Peter the Pug"
-},
-{
-	"name": "Poppy the Pekingese"
-},
-{
-	"name": "Rosie the Rottweiler"
-},
-{
-	"name": "Ruby the Retriever"
-},
-{
-	"name": "Sam the Springer Spaniel"
-},
-{
-	"name": "Sukie the Saluki"
-},
-{
-	"name": "Vernon the Vizsla"
-},
-{
-	"name": "Whilma the West Highland Terrier"
-},
-{
-	"name": "William the Whippet"
-},
-{
-	"name": "Yolande the Yorkshire Terrier"
+	"name": "Yolande the Yorkshire Terrier",
+	"stats":{
+		"exercise": 1,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 }
