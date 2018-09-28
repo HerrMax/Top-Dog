@@ -1,90 +1,98 @@
 {
-	name: "Annie the Afgan Hound"
+	"name": "Annie the Afgan Hound",
+	"stats":{
+		"exercise": ,
+		"intelligence": ,
+		"friendliness": ,
+		"drool":	
+	}, 
+	"description": ,
+	"image": ,
 },
 {
-	name: "Bertie the Boxer"
+	"name": "Bertie the Boxer"
 },
 {
-	name: "Betty the Borzoi"
+	"name": "Betty the Borzoi"
 },
 {
-	name: "Charlie the Chihuahua"
+	"name": "Charlie the Chihuahua"
 }
 {
-	name: "Chaz the Cocker Spaniel"
+	"name": "Chaz the Cocker Spaniel"
 },
 {
-	name: "Donald the Dalmation"
+	"name": "Donald the Dalmation"
 },
 {
-	name: "Dottie the Doberman"
+	"name": "Dottie the Doberman"
 },
 {
-	name: "Fern the Fox Terrier"
+	"name": "Fern the Fox Terrier"
 },
 {
-	name: "Frank the French Bulldog"
+	"name": "Frank the French Bulldog"
 },
 {
-	name: "George the Great Dane"
+	"name": "George the Great Dane"
 },
 {
-	name: "Gertie the Grayhound"
+	"name": "Gertie the Grayhound"
 },
 {
-	name: "Harry the Harrier"
+	"name": "Harry the Harrier"
 },
 {
-	name: "Ian the Irish Wolfhound"
+	"name": "Ian the Irish Wolfhound"
 },
 {
-	name: "Juno the Jack Russell"
+	"name": "Juno the Jack Russell"
 },
 {
-	name: "Keith the Kerry Blue"
+	"name": "Keith the Kerry Blue"
 },
 {
-	name: "Larry the Labrador"
+	"name": "Larry the Labrador"
 },
 {
-	name: "Marge the Maltese"
+	"name": "Marge the Maltese"
 },
 {
-	name: "Max the Mutt"
+	"name": "Max the Mutt"
 },
 {
-	name: "Nutty the Newfoundland"
+	"name": "Nutty the Newfoundland"
 },
 {
-	name: "Olive the Old English Sheepdog"
+	"name": "Olive the Old English Sheepdog"
 },
 {
-	name: "Peter the Pug"
+	"name": "Peter the Pug"
 },
 {
-	name: "Poppy the Pekingese"
+	"name": "Poppy the Pekingese"
 },
 {
-	name: "Rosie the Rottweiler"
+	"name": "Rosie the Rottweiler"
 },
 {
-	name: "Ruby the Retriever"
+	"name": "Ruby the Retriever"
 },
 {
-	name: "Sam the Springer Spaniel"
+	"name": "Sam the Springer Spaniel"
 },
 {
-	name: "Sukie the Saluki"
+	"name": "Sukie the Saluki"
 },
 {
-	name: "Vernon the Vizsla"
+	"name": "Vernon the Vizsla"
 },
 {
-	name: "Whilma the West Highland Terrier"
+	"name": "Whilma the West Highland Terrier"
 },
 {
-	name: "William the Whippet"
+	"name": "William the Whippet"
 },
 {
-	name: "Yolande the Yorkshire Terrier"
+	"name": "Yolande the Yorkshire Terrier"
 }
