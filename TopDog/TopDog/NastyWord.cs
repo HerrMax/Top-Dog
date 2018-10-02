@@ -8,5 +8,6 @@ namespace TopDog
 {
     class NastyWord
     {
+        
     }
 }
