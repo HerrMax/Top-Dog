@@ -1,3 +1,4 @@
+//Database for all the dog attributes and stuff
 {
 	"name": "Annie the Afgan Hound",
 	"stats":{
@@ -6,7 +7,7 @@
 		"friendliness": 7,
 		"drool": 7
 	}, 
-	"description": "",
+	"description": "Cute ass doggo",
 	"image": ,
 },
 {
@@ -17,7 +18,7 @@
 		"friendliness": 3,
 		"drool": 5
 	}, 
-	"description": ,
+	"description": "Heckin' good floof boi",
 	"image": ,
 },
 {
@@ -28,7 +29,7 @@
 		"friendliness": 1,
 		"drool": 8
 	}, 
-	"description": ,
+	"description": "Betty has a child. The damn thing went wild",
 	"image": ,
 },
 {
@@ -39,7 +40,7 @@
 		"friendliness": 8,
 		"drool": 2
 	}, 
-	"description": ,
+	"description": "Charlie is a chappy that is always happy to help",
 	"image": ,
 }
 {
@@ -215,7 +216,7 @@
 		"friendliness": 5,
 		"drool": 5
 	}, 
-	"description": ,
+	"description": "Guess where the oil coes from..",
 	"image": ,
 },
 {
@@ -226,7 +227,7 @@
 		"friendliness": 8,
 		"drool": 4
 	}, 
-	"description": ,
+	"description": "This cute littl doggo has been engineered so he  is super cute and unable to breathe :)",
 	"image": ,
 },
 {
@@ -248,7 +249,7 @@
 		"friendliness": 2,
 		"drool": 10
 	}, 
-	"description": ,
+	"description": "Rosie is red, violets are blue. ",
 	"image": ,
 },
 {
@@ -296,12 +297,12 @@
 	"image": ,
 },
 {
-	"name": "Whilma the West Highland Terrier",
+	"name": "THANOS TERRIER THANOS TERRIER",
 	"stats":{
-		"exercise": 1,
-		"intelligence": 85,
-		"friendliness": 4,
-		"drool": 8
+		"exercise": 3,
+		"intelligence": 50,
+		"friendliness": 5,
+		"drool": 5
 	}, 
 	"description": ,
 	"image": ,
