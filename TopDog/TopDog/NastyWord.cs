@@ -8,6 +8,9 @@ namespace TopDog
 {
     class NastyWord
     {
-        
+        public static void LoadDog()
+        {
+
+        }
     }
 }

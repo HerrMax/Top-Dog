@@ -142,6 +142,7 @@
             this.friendlinessButton.TabIndex = 2;
             this.friendlinessButton.Text = "Friendliness";
             this.friendlinessButton.UseVisualStyleBackColor = true;
+            this.friendlinessButton.Click += new System.EventHandler(this.friendlinessButton_Click);
             // 
             // droolButton
             // 
@@ -151,6 +152,7 @@
             this.droolButton.TabIndex = 4;
             this.droolButton.Text = "Drool";
             this.droolButton.UseVisualStyleBackColor = true;
+            this.droolButton.Click += new System.EventHandler(this.droolButton_Click);
             // 
             // intelligenceButton
             // 
@@ -160,6 +162,7 @@
             this.intelligenceButton.TabIndex = 3;
             this.intelligenceButton.Text = "Intelligence";
             this.intelligenceButton.UseVisualStyleBackColor = true;
+            this.intelligenceButton.Click += new System.EventHandler(this.intelligenceButton_Click);
             // 
             // exerciseButton
             // 
@@ -169,6 +172,7 @@
             this.exerciseButton.TabIndex = 1;
             this.exerciseButton.Text = "Exercise";
             this.exerciseButton.UseVisualStyleBackColor = true;
+            this.exerciseButton.Click += new System.EventHandler(this.exerciseButton_Click);
             // 
             // groupBox2
             // 
