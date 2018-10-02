@@ -13,6 +13,9 @@ namespace TopDog
 {
     public partial class MainForm : Form
     {
+        /// <summary>
+        /// Juicy boy kyle ;)
+        /// </summary>
         public SpeechSynthesizer kyle;
 
         public MainForm()
