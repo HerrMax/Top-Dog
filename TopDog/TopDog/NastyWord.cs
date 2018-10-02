@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TopDog
 {
+    /// <summary>
+    /// Loads dogs and attributes from the JSON database.
+    /// </summary>
     class NastyWord
     {
         public static void LoadDog()
