@@ -15,6 +15,8 @@ namespace TopDog
         [STAThread]
         static void Main()
         {
+            GameScript gs = new GameScript();
+            gs.LoadStuff();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());

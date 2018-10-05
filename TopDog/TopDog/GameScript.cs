@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System.IO;
 
 namespace TopDog
 {
@@ -11,12 +13,20 @@ namespace TopDog
     /// </summary>
     class GameScript
     {
+        private int cardNum;
+        JsonSerializer serializer = new JsonSerializer();
+        
+
         /// <summary>
-        /// Number of cards selected by the player
+        /// Loads the Database and gets the game ready
         /// </summary>
-        private int tempCardNum = 4;// For debugging only, need to be changed so the layer can input it through the setup form.
+        public void LoadStuff()
+        {
+            cardNum = 4;
+            //serializer.Converters.Add(new JavaScriptDateTimeConverter());
+            serializer.NullValueHandling = NullValueHandling.Ignore;
+            StreamReader sw = new StreamReader("DogData.txt");
 
-        dynamic jsonFile = Job
-
+        } 
     }
 }
