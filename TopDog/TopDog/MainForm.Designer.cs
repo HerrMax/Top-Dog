@@ -206,6 +206,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(376, 125);
             this.pictureBox2.TabIndex = 8;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // groupBox6
             // 
@@ -356,6 +357,9 @@
             this.ClientSize = new System.Drawing.Size(832, 450);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "MainForm";
             this.Text = "Top Dog";
             this.groupBox1.ResumeLayout(false);
