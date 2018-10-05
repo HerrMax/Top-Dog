@@ -47,22 +47,26 @@ namespace TopDog
         private void friendlinessButton_Click(object sender, EventArgs e)
         {
             
-            kyle.SpeakAsync("Friendliness");
+            Speak("Friendliness");
         }
 
         private void droolButton_Click(object sender, EventArgs e)
         {
-            kyle.SpeakAsync("Drool");
+            Speak("Drool");
         }
-
         private void exerciseButton_Click(object sender, EventArgs e)
         {
-            kyle.SpeakAsync("Exercise");
+            Speak("Exercise");
         }
 
         private void intelligenceButton_Click(object sender, EventArgs e)
         {
-            kyle.SpeakAsync("Intelligence");
+            Speak("Intelligence");
+        }
+
+        private void Speak(string words)
+        {
+            kyle.SpeakAsync(words);
         }
     }
 }
