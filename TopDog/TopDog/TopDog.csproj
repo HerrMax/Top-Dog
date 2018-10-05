@@ -80,12 +80,15 @@
     </Compile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <EmbeddedResource Include="Setup.resx">
       <DependentUpon>Setup.cs</DependentUpon>
     </EmbeddedResource>
 =======
     <None Include="packages.config" />
 >>>>>>> 2e8d0ff755da23166965aadb6260b894831d5e7e
+=======
+>>>>>>> parent of 126325b... Added setup menu functionality
 =======
 >>>>>>> parent of 126325b... Added setup menu functionality
     <None Include="Properties\Settings.settings">
